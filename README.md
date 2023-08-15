@@ -1,5 +1,5 @@
 <img align="right" alt="coding" width="800" height="300" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif">
-<h1 align="center" margin-top="300"> 🕸🧑‍💻 Frontend & BackEnd Learning Resources 🕸🧑‍💻 </h1>
+<h2 align="center" margin-top="300"> 🕸🧑‍💻 Frontend & BackEnd Learning Resources 🧑‍💻🕸</h2>
 <h3>HTML 🧱 </h3>
 
 [HTML Refresher by FreeCodeCamp](https://youtu.be/pQN-pnXPaVg)<br>
